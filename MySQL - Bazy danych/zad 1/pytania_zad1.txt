@@ -1,0 +1,17 @@
+1. Wypisz najmniejsze (powierzchniowo) państwo w Azji.
+2. Wypisz 5 największych (powierzchniowo) państw świata. 3. Wypisz 10 najmniejszych (powierzchniowo) państw świata.
+4. Wypisz 10 najmniejszych (powierzchniowo) państw w Europie.
+5. Wypisz nazwy opisane jako Państwo i pola powierzchni opisane jako Pole powierzchni wszystkich państw europejskich, dla których pole powierzchni jest pomiędzy 40 000 i 100 000.
+6. Wypisz wszystkie miasta świata, których nazwy zaczynają się na literę Z, a kończą na literę k.
+7. Wypisz wszystkie miasta, których nazwa zaczyna się na literę W i liczba ludności jest większa od miliona.
+8. Wypisz nazwę i liczbę ludności każdego z miast, w którym populacja jest mniejsza od 500 lub większa od 9 mln.
+9. Wypisz wszystkie państwa świata posortowane wg kontynentu i ich pola powierzchni (malejąco). W tabeli wypisz nazwę, kontynent oraz pole powierzchni.
+10. Wypisz 10 najbardziej gęsto zaludnionych krajów świata.
+11. Wypisz 10 najbardziej gęsto zaludnionych krajów świata, których pole powierzchni jest większe od 10 000.
+12. Wyznacza 4 najmniej gęsto zaludnione państwa świata.
+13. Wyznacz 10 najmniej gęsto zaludnionych państw świata, pomijając w tym rankingu kraje niezamieszkane przez ludzi.
+14. Wyznacz kraje, które nie uzyskały niepodległości.
+15. Wyznacz największy (powierzchniowo) kraj niepodległy.
+16. Wyznacz wszystkie kraje azjatyckie, które uzyskały niepodległość przed naszą erą. Wypisz je od największej liczby populacji do najmniejszej.
+17. Wypisz wszystkie państwa świata, które posiadają więcej niż 5mln mieszkańców oraz uzyskały niepodległość przed naszą erą lub jej nie posiadają.
+18. Wiedząc, że coutrycode dla Polski jest równy pol, wypisz najmniejsze miasto w Polsce

@@ -1,0 +1,11 @@
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\bin\Debug\TerazMusisz.exe.config
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\bin\Debug\TerazMusisz.exe
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\bin\Debug\TerazMusisz.pdb
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.csproj.AssemblyReference.cache
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.csproj.SuggestedBindingRedirects.cache
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.Properties.Resources.resources
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.View.Form1.resources
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.csproj.GenerateResource.cache
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.csproj.CoreCompileInputs.cache
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.exe
+C:\Users\grabe\source\repos\TerazMusisz\TerazMusisz\obj\Debug\TerazMusisz.pdb

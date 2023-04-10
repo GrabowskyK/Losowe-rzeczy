@@ -1,0 +1,10 @@
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.csproj.AssemblyReference.cache
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.csproj.SuggestedBindingRedirects.cache
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.Properties.Resources.resources
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.csproj.GenerateResource.cache
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.csproj.CoreCompileInputs.cache
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\bin\Debug\ZDotNetem.exe.config
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\bin\Debug\ZDotNetem.exe
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\bin\Debug\ZDotNetem.pdb
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.exe
+C:\Users\grabe\source\repos\ZDotNetem\ZDotNetem\obj\Debug\ZDotNetem.pdb

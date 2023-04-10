@@ -1,0 +1,18 @@
+1. SELECT name, surfacearea FROM country WHERE Continent LIKE "Asia" ORDER BY surfacearea ASC LIMIT 1;
+2. SELECT name, surfacearea from country ORDER BY surfacearea DESC LIMIT 5;
+3. SELECT name, surfacearea from country ORDER BY surfacearea ASC LIMIT 10;
+4. SELECT name, surfacearea from country WHERE Continent LIKE "Europe" ORDER BY surfacearea ASC LIMIT 10;
+5. SELECT name as "Państwo", surfacearea AS "Pole powierzchni" from country WHERE Continent LIKE "Europe" and surfacearea >= 40000 and surfacearea <= 100000 ORDER BY surfacearea ASC;
+6. SELECT * from city WHERE name LIKE "Z%" and name like "%k";
+7. SELECT * FROM city WHERE name LIKE "W%" AND Population > 1000000;
+8. SELECT * FROM city WHERE population > 9000000 OR population < 500 ORDER BY population;
+9. SELECT name, continent, surfacearea from country ORDER BY continent, surfacearea DESC;
+10. SELECT name, continent, (population/surfacearea) as Zaludnienie from country ORDER BY Zaludnienie DESC LIMIT 10;
+11. SELECT name, continent, surfacearea, (population/surfacearea) as Zaludnienie from country WHERE surfacearea > 10000 ORDER BY Zaludnienie DESC LIMIT 10;
+12. SELECT name, continent, (population/surfacearea) as Zaludnienie from country ORDER BY Zaludnienie ASC LIMIT 4;
+13. SELECT name,continent, Population/surfacearea as zaludnienie from country WHERE population != 0 ORDER BY zaludnienie ASC Limit 10;
+14. SELECT name,continent,indepyear from country WHERE indepyear IS NULL;
+15. SELECT name,continent, surfacearea indepyear from country ORDER BY surfacearea DESC LIMIT 1;
+16. SELECT name, continent, population, indepyear from country WHERE continent="Asia" AND indepyear < 0 ORDER BY population DESC;
+17. SELECT name, continent, population, indepyear from country WHERE population > 5000000 AND indepyear IS NUll OR indepyear < 0;
+18. SELECT name, population from city where countrycode = "pol" ORDER BY population ASC LIMIT 1;
